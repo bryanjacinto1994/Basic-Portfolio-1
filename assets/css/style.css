@@ -112,3 +112,32 @@ html, body {
     width: 250px;
     bottom: 80px;
 }
+
+.picture4 {
+    position: relative;
+    left: 350px;
+    bottom: 625px;
+}
+
+.text-4 {
+    position: relative;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 250px;
+    bottom: 80px;
+}
+
+.picture5 {
+    position: relative;
+    bottom: 625px;
+}
+
+.text-5 {
+    position: relative;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 250px;
+    bottom: 80px;
+}
