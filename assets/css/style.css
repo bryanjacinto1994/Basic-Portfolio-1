@@ -44,3 +44,26 @@ nav {
     float: left;
     margin: 10px;
 }
+
+.footer {
+    
+    background: rgb(169, 169, 169);
+    padding: 20px;
+    text-align: center;
+    color: darkslategray
+}
+
+html, body {
+    height: 60%;
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+}
+
+.footer,
+.push {
+    height: 50px;
+}
