@@ -2,11 +2,11 @@
 
 ## Images
 
-![Site](assets/images/about.png)
+![Site](aboutme.png)
 <br>
-![Site](assets/images/contact.png)
+![Site](portfolio.png)
 <br>
-![Site](assets/images/portfolio.png)
+![Site](contact.png)
 
 <hr>
 
