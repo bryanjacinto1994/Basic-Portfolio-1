@@ -90,5 +90,25 @@ html, body {
 }
 
 .text-2 {
-    position: 
+    position: relative;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 250px;
+    bottom: 80px;
+}
+
+.picture3 {
+    position: relative;
+    left: 350px;
+    bottom: 625px;
+}
+
+.text-3 {
+    position: relative;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 250px;
+    bottom: 80px;
 }
