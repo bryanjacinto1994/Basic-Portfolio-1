@@ -79,3 +79,16 @@ html, body {
 #Message {
     height: 250px;
 }
+
+.text-1 {
+    position: relative;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 250px;
+    bottom: 80px;
+}
+
+.text-2 {
+    position: 
+}
