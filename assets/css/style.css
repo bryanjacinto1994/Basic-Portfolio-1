@@ -43,6 +43,7 @@ nav {
 #image {
     float: left;
     margin: 10px;
+    
 }
 
 .footer {
@@ -66,4 +67,15 @@ html, body {
 .footer,
 .push {
     height: 50px;
+}
+
+#Name,
+#id,
+#Email,
+#Message {
+    width: 960px;
+}
+
+#Message {
+    height: 250px;
 }
