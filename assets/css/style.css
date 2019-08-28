@@ -5,6 +5,7 @@ body {
     color: #777777;
     margin: 0 auto;
     
+    
 }
 
 .Navigation {
@@ -19,17 +20,17 @@ body {
 
 .container {
     width: 960px;
+    background: white;
     margin: 0 auto;
 }
+
+
 .Name {
     background-color: #4aaaa5;
     color: white;
     width: 200px;
     padding: 5px;
     float: left;
-    
-    
-    
 }
 
 nav {
@@ -37,7 +38,9 @@ nav {
     font-size: 18px;
     float: right;
     margin-top: 40px;
-    
-    
 }
 
+#image {
+    float: left;
+    margin: 10px;
+}
